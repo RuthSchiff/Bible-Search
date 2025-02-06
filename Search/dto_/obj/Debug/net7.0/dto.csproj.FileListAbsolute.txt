@@ -1,0 +1,72 @@
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dto_\bin\Debug\net7.0\dto.deps.json
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dto_\bin\Debug\net7.0\dto.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dto_\bin\Debug\net7.0\dto.pdb
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dto_\obj\Debug\net7.0\dto.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dto_\obj\Debug\net7.0\dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dto_\obj\Debug\net7.0\dto.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dto_\obj\Debug\net7.0\dto.AssemblyInfo.cs
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dto_\obj\Debug\net7.0\dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dto_\obj\Debug\net7.0\dto.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dto_\obj\Debug\net7.0\refint\dto.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dto_\obj\Debug\net7.0\dto.pdb
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dto_\obj\Debug\net7.0\ref\dto.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dto_\bin\Debug\net7.0\dto.deps.json
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dto_\bin\Debug\net7.0\dto.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dto_\bin\Debug\net7.0\dto.pdb
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dto_\obj\Debug\net7.0\dto.csproj.AssemblyReference.cache
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dto_\obj\Debug\net7.0\dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dto_\obj\Debug\net7.0\dto.AssemblyInfoInputs.cache
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dto_\obj\Debug\net7.0\dto.AssemblyInfo.cs
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dto_\obj\Debug\net7.0\dto.csproj.CoreCompileInputs.cache
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dto_\obj\Debug\net7.0\dto.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dto_\obj\Debug\net7.0\refint\dto.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dto_\obj\Debug\net7.0\dto.pdb
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dto_\obj\Debug\net7.0\ref\dto.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\bin\Debug\net7.0\dto.deps.json
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\bin\Debug\net7.0\dto.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\bin\Debug\net7.0\dto.pdb
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.csproj.AssemblyReference.cache
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.AssemblyInfoInputs.cache
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.AssemblyInfo.cs
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.csproj.CoreCompileInputs.cache
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\refint\dto.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.pdb
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\ref\dto.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\bin\Debug\net7.0\dto.deps.json
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\bin\Debug\net7.0\dto.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\bin\Debug\net7.0\dto.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.csproj.AssemblyReference.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.GeneratedMSBuildEditorConfig.editorconfig
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.AssemblyInfoInputs.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.AssemblyInfo.cs
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.csproj.CoreCompileInputs.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\refint\dto.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\ref\dto.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dto_\bin\Debug\net7.0\dto.deps.json
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dto_\bin\Debug\net7.0\dto.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dto_\bin\Debug\net7.0\dto.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.csproj.AssemblyReference.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.AssemblyInfoInputs.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.AssemblyInfo.cs
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.csproj.CoreCompileInputs.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\refint\dto.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\dto.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dto_\obj\Debug\net7.0\ref\dto.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dto_\bin\Debug\net7.0\dto.deps.json
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dto_\bin\Debug\net7.0\dto.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dto_\bin\Debug\net7.0\dto.pdb
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dto_\obj\Debug\net7.0\dto.csproj.AssemblyReference.cache
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dto_\obj\Debug\net7.0\dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dto_\obj\Debug\net7.0\dto.AssemblyInfoInputs.cache
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dto_\obj\Debug\net7.0\dto.AssemblyInfo.cs
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dto_\obj\Debug\net7.0\dto.csproj.CoreCompileInputs.cache
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dto_\obj\Debug\net7.0\dto.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dto_\obj\Debug\net7.0\refint\dto.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dto_\obj\Debug\net7.0\dto.pdb
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dto_\obj\Debug\net7.0\ref\dto.dll

@@ -1,0 +1,102 @@
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\bin\Debug\net7.0\bll.deps.json
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\bin\Debug\net7.0\bll.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\bin\Debug\net7.0\bll.pdb
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\bin\Debug\net7.0\dal.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\bin\Debug\net7.0\dal.pdb
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\obj\Debug\net7.0\bll.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\obj\Debug\net7.0\bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\obj\Debug\net7.0\bll.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\obj\Debug\net7.0\bll.AssemblyInfo.cs
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\obj\Debug\net7.0\bll.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\obj\Debug\net7.0\bll.csproj.CopyComplete
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\obj\Debug\net7.0\bll.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\obj\Debug\net7.0\refint\bll.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\obj\Debug\net7.0\bll.pdb
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\obj\Debug\net7.0\ref\bll.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\bin\Debug\net7.0\dto.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\bll\bin\Debug\net7.0\dto.pdb
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\bin\Debug\net7.0\bll.deps.json
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\bin\Debug\net7.0\bll.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\bin\Debug\net7.0\bll.pdb
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\bin\Debug\net7.0\dal.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\bin\Debug\net7.0\dto.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\bin\Debug\net7.0\dal.pdb
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\bin\Debug\net7.0\dto.pdb
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\obj\Debug\net7.0\bll.csproj.AssemblyReference.cache
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\obj\Debug\net7.0\bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\obj\Debug\net7.0\bll.AssemblyInfoInputs.cache
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\obj\Debug\net7.0\bll.AssemblyInfo.cs
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\obj\Debug\net7.0\bll.csproj.CoreCompileInputs.cache
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\obj\Debug\net7.0\bll.csproj.CopyComplete
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\obj\Debug\net7.0\bll.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\obj\Debug\net7.0\refint\bll.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\obj\Debug\net7.0\bll.pdb
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\bll\obj\Debug\net7.0\ref\bll.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\bll.deps.json
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\bll.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\bll.pdb
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\dal.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\dto.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\dal.pdb
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\dto.pdb
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.csproj.AssemblyReference.cache
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.AssemblyInfoInputs.cache
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.AssemblyInfo.cs
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.csproj.CoreCompileInputs.cache
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.csproj.CopyComplete
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\refint\bll.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.pdb
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\ref\bll.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\bll.deps.json
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\bll.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\bll.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\dal.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\dto.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\dal.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\dto.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.csproj.AssemblyReference.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.GeneratedMSBuildEditorConfig.editorconfig
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.AssemblyInfoInputs.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.AssemblyInfo.cs
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.csproj.CoreCompileInputs.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.csproj.CopyComplete
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\refint\bll.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\ref\bll.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\bll.deps.json
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\bll.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\bll.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\dal.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\dto.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\dal.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\bin\Debug\net7.0\dto.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.csproj.AssemblyReference.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.AssemblyInfoInputs.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.AssemblyInfo.cs
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.csproj.CoreCompileInputs.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.csproj.CopyComplete
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\refint\bll.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\bll.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\bll\obj\Debug\net7.0\ref\bll.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\bin\Debug\net7.0\bll.deps.json
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\bin\Debug\net7.0\bll.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\bin\Debug\net7.0\bll.pdb
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\bin\Debug\net7.0\dal.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\bin\Debug\net7.0\dto.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\bin\Debug\net7.0\dal.pdb
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\bin\Debug\net7.0\dto.pdb
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\obj\Debug\net7.0\bll.csproj.AssemblyReference.cache
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\obj\Debug\net7.0\bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\obj\Debug\net7.0\bll.AssemblyInfoInputs.cache
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\obj\Debug\net7.0\bll.AssemblyInfo.cs
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\obj\Debug\net7.0\bll.csproj.CoreCompileInputs.cache
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\obj\Debug\net7.0\bll.csproj.CopyComplete
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\obj\Debug\net7.0\bll.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\obj\Debug\net7.0\refint\bll.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\obj\Debug\net7.0\bll.pdb
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\bll\obj\Debug\net7.0\ref\bll.dll

@@ -1,0 +1,21 @@
+# Build files
+bin/
+obj/
+*.exe
+*.dll
+
+# User-specific files
+.vscode/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Package directories
+node_modules/
+packages/
+
+# Visual Studio specific
+.idea/
+.DS_Store

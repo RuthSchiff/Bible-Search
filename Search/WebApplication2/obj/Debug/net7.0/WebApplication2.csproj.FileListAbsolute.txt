@@ -1,0 +1,120 @@
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\appsettings.Development.json
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\appsettings.json
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\WebApplication2.exe
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\WebApplication2.deps.json
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\WebApplication2.runtimeconfig.json
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\WebApplication2.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\WebApplication2.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\bll.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\dal.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\dto.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\bll.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\dto.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\dal.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.csproj.AssemblyReference.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.AssemblyInfoInputs.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.AssemblyInfo.cs
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.csproj.CoreCompileInputs.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication2.props
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\staticwebassets.pack.json
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\staticwebassets.build.json
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\staticwebassets.development.json
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\scopedcss\bundle\WebApplication2.styles.css
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.csproj.CopyComplete
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\refint\WebApplication2.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.genruntimeconfig.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\ref\WebApplication2.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\appsettings.json
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\WebApplication2.exe
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\WebApplication2.deps.json
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\WebApplication2.runtimeconfig.json
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\WebApplication2.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\WebApplication2.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\bll.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\dal.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\dto.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\bll.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\dto.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\bin\Debug\net7.0\dal.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.AssemblyInfo.cs
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication2.props
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.csproj.CopyComplete
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\refint\WebApplication2.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.genruntimeconfig.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\WebApplication2\obj\Debug\net7.0\ref\WebApplication2.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\appsettings.json
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\WebApplication2.exe
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\WebApplication2.deps.json
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\WebApplication2.runtimeconfig.json
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\WebApplication2.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\WebApplication2.pdb
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\bll.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\dal.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\dto.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\bll.pdb
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\dto.pdb
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\bin\Debug\net7.0\dal.pdb
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.AssemblyInfo.cs
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication2.props
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.csproj.CopyComplete
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\refint\WebApplication2.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.pdb
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\WebApplication2.genruntimeconfig.cache
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\WebApplication2\obj\Debug\net7.0\ref\WebApplication2.dll

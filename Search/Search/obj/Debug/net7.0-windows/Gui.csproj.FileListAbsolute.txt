@@ -1,0 +1,130 @@
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\bin\Debug\net7.0-windows\Gui.exe
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\bin\Debug\net7.0-windows\Gui.deps.json
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\bin\Debug\net7.0-windows\Gui.runtimeconfig.json
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\bin\Debug\net7.0-windows\Gui.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\bin\Debug\net7.0-windows\Gui.pdb
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\bin\Debug\net7.0-windows\bll.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\bin\Debug\net7.0-windows\dal.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\bin\Debug\net7.0-windows\bll.pdb
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\bin\Debug\net7.0-windows\dal.pdb
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\obj\Debug\net7.0-windows\Search.Form1.resources
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\obj\Debug\net7.0-windows\Gui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\obj\Debug\net7.0-windows\Gui.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\obj\Debug\net7.0-windows\Gui.AssemblyInfo.cs
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.CopyComplete
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\obj\Debug\net7.0-windows\Gui.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\obj\Debug\net7.0-windows\refint\Gui.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\obj\Debug\net7.0-windows\Gui.pdb
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\obj\Debug\net7.0-windows\Gui.genruntimeconfig.cache
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\obj\Debug\net7.0-windows\ref\Gui.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\bin\Debug\net7.0-windows\dto.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\bin\Debug\net7.0-windows\dto.pdb
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\Search\obj\Debug\net7.0-windows\Gui.Properties.Resources.resources
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\bin\Debug\net7.0-windows\Gui.exe
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\bin\Debug\net7.0-windows\Gui.deps.json
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\bin\Debug\net7.0-windows\Gui.runtimeconfig.json
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\bin\Debug\net7.0-windows\Gui.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\bin\Debug\net7.0-windows\Gui.pdb
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\bin\Debug\net7.0-windows\bll.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\bin\Debug\net7.0-windows\dal.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\bin\Debug\net7.0-windows\dto.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\bin\Debug\net7.0-windows\bll.pdb
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\bin\Debug\net7.0-windows\dto.pdb
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\bin\Debug\net7.0-windows\dal.pdb
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.AssemblyReference.cache
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\obj\Debug\net7.0-windows\Search.Form1.resources
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\obj\Debug\net7.0-windows\Gui.Properties.Resources.resources
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.GenerateResource.cache
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\obj\Debug\net7.0-windows\Gui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\obj\Debug\net7.0-windows\Gui.AssemblyInfoInputs.cache
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\obj\Debug\net7.0-windows\Gui.AssemblyInfo.cs
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.CoreCompileInputs.cache
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.CopyComplete
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\obj\Debug\net7.0-windows\Gui.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\obj\Debug\net7.0-windows\refint\Gui.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\obj\Debug\net7.0-windows\Gui.pdb
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\obj\Debug\net7.0-windows\Gui.genruntimeconfig.cache
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\Search\obj\Debug\net7.0-windows\ref\Gui.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Gui.exe
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Gui.deps.json
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Gui.runtimeconfig.json
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Gui.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Gui.pdb
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\bll.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\dal.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\dto.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\bll.pdb
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\dto.pdb
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\dal.pdb
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.AssemblyReference.cache
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Search.Form1.resources
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.Properties.Resources.resources
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.GenerateResource.cache
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.GeneratedMSBuildEditorConfig.editorconfig
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.AssemblyInfoInputs.cache
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.AssemblyInfo.cs
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.CoreCompileInputs.cache
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.CopyComplete
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\refint\Gui.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.pdb
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.genruntimeconfig.cache
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\ref\Gui.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Gui.exe
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Gui.deps.json
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Gui.runtimeconfig.json
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Gui.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Gui.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\bll.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\dal.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\dto.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\bll.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\dto.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\dal.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.AssemblyReference.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Search.Form1.resources
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.Properties.Resources.resources
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.GenerateResource.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.GeneratedMSBuildEditorConfig.editorconfig
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.AssemblyInfoInputs.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.AssemblyInfo.cs
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.CoreCompileInputs.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.CopyComplete
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\refint\Gui.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.genruntimeconfig.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\ref\Gui.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Gui.exe
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Gui.deps.json
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Gui.runtimeconfig.json
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Gui.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Gui.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\bll.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\dal.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\dto.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\bll.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\dto.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\bin\Debug\net7.0-windows\dal.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.AssemblyReference.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Search.Form1.resources
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.Properties.Resources.resources
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.GenerateResource.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.AssemblyInfoInputs.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.AssemblyInfo.cs
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.CoreCompileInputs.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.csproj.CopyComplete
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\refint\Gui.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\Gui.genruntimeconfig.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\Search\obj\Debug\net7.0-windows\ref\Gui.dll

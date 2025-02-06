@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>חיפוש בתנ"ך</title>
+    <link rel="stylesheet" href="searchTanach.css">
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="searchTanach.js" defer></script>
+</head>
+<body>
+    <h1>חיפוש בתנ"ך</h1>
+    <input type="text" id="Word" placeholder="הקש מילה לחיפוש" />
+    <br/>
+    <button onclick="SearchP()">חפש מילה</button>
+    <button onclick="SearchR()">חפש ראשי תיבות</button>
+    <button onclick="conversion()">חפש לפי גימטריה</button>
+    <h4 id="countResult">תוצאות: 0</h4>
+    <div id="results">תוצאות החיפוש יופיעו כאן.</div>
+</body>
+</html>

@@ -1,0 +1,72 @@
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dal\bin\Debug\net7.0\dal.deps.json
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dal\bin\Debug\net7.0\dal.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dal\bin\Debug\net7.0\dal.pdb
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dal\obj\Debug\net7.0\dal.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dal\obj\Debug\net7.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dal\obj\Debug\net7.0\dal.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dal\obj\Debug\net7.0\dal.AssemblyInfo.cs
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dal\obj\Debug\net7.0\dal.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dal\obj\Debug\net7.0\dal.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dal\obj\Debug\net7.0\refint\dal.dll
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dal\obj\Debug\net7.0\dal.pdb
+C:\Users\user1\Desktop\המסמכים שלי\הנדסאים- שנה ב\C#\Search\dal\obj\Debug\net7.0\ref\dal.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dal\bin\Debug\net7.0\dal.deps.json
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dal\bin\Debug\net7.0\dal.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dal\bin\Debug\net7.0\dal.pdb
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dal\obj\Debug\net7.0\dal.csproj.AssemblyReference.cache
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dal\obj\Debug\net7.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dal\obj\Debug\net7.0\dal.AssemblyInfoInputs.cache
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dal\obj\Debug\net7.0\dal.AssemblyInfo.cs
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dal\obj\Debug\net7.0\dal.csproj.CoreCompileInputs.cache
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dal\obj\Debug\net7.0\dal.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dal\obj\Debug\net7.0\refint\dal.dll
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dal\obj\Debug\net7.0\dal.pdb
+C:\Users\רותי שיף\Downloads\jm_mk55E9tNCkSEkjm (1)\Search\dal\obj\Debug\net7.0\ref\dal.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\bin\Debug\net7.0\dal.deps.json
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\bin\Debug\net7.0\dal.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\bin\Debug\net7.0\dal.pdb
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.csproj.AssemblyReference.cache
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.AssemblyInfoInputs.cache
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.AssemblyInfo.cs
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.csproj.CoreCompileInputs.cache
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\refint\dal.dll
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.pdb
+D:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\ref\dal.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\bin\Debug\net7.0\dal.deps.json
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\bin\Debug\net7.0\dal.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\bin\Debug\net7.0\dal.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.csproj.AssemblyReference.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.AssemblyInfoInputs.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.AssemblyInfo.cs
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.csproj.CoreCompileInputs.cache
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\refint\dal.dll
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.pdb
+E:\הנדסאים\c#\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\ref\dal.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dal\bin\Debug\net7.0\dal.deps.json
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dal\bin\Debug\net7.0\dal.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dal\bin\Debug\net7.0\dal.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.csproj.AssemblyReference.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.AssemblyInfoInputs.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.AssemblyInfo.cs
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.csproj.CoreCompileInputs.cache
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\refint\dal.dll
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\dal.pdb
+C:\Users\רותי שיף\Documents\פרויקט_חיפוש_תנך\Search\dal\obj\Debug\net7.0\ref\dal.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dal\bin\Debug\net7.0\dal.deps.json
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dal\bin\Debug\net7.0\dal.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dal\bin\Debug\net7.0\dal.pdb
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dal\obj\Debug\net7.0\dal.csproj.AssemblyReference.cache
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dal\obj\Debug\net7.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dal\obj\Debug\net7.0\dal.AssemblyInfoInputs.cache
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dal\obj\Debug\net7.0\dal.AssemblyInfo.cs
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dal\obj\Debug\net7.0\dal.csproj.CoreCompileInputs.cache
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dal\obj\Debug\net7.0\dal.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dal\obj\Debug\net7.0\refint\dal.dll
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dal\obj\Debug\net7.0\dal.pdb
+C:\Users\רותי שיף\Documents\הנדסאים\פרויקטים\C#\פרויקט חיפוש תנך\project-root\Search\dal\obj\Debug\net7.0\ref\dal.dll
